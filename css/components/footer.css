@@ -1,0 +1,25 @@
+/* Footer design */
+#footer {
+  background: #333333;
+  padding: 40px 0px;
+}
+
+#footer ul li a {
+  font-size: 30px;
+  color: #CCCCCB;
+  padding: 15px;
+}
+
+#footer ul li a:first-child {
+padding-left: 0px;
+}
+
+#footer ul li a:hover {
+color: #FEFE05;
+}
+
+#footer p {
+  color: #CCCCCB;
+  margin-bottom: 0px;
+}
+
